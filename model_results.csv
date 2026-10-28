@@ -1,0 +1,4 @@
+Model,Test Accuracy (%)
+Logistic Regression,86.24
+Decision Tree,81.65
+Random Forest,84.4
